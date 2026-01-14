@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Olá Mundo!</h1>    
+    return <h1>Tab News do Curso.Dev</h1>    
 
 
 }
